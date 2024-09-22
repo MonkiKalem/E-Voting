@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - E-Voting System</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body class="login-body">
+    <div class="login-container">
+        <h2>E-Voting Login</h2>
+        <form id="login-form" action="process.php" method="post" enctype="multipart/form-data">
+            <div class="login-form-group">
+                <label for="nik">NIK:</label>
+                <input type="text" id="nik" name="nik" required>
+            </div>
+            <div class="login-form-group">
+                <label for="id_card_image">Upload ID Card Image:</label>
+                <input type="file" id="id_card_image" name="id_card_image" accept="image/*" required>
+            </div>
+            <div class="login-form-group">
+                <label for="face_image">Capture Face Image:</label>
+                <input type="file" id="face_image" name="face_image" accept="image/*" style="display: none;">
+                <div class="video-container">
+                    <video id="video" width="640" height="480" autoplay muted></video>
+                    <button type="button" id="capture-btn">Capture Photo</button>
+                </div>
+                <canvas id="captured-image" width="640" height="480" style="display: none;"></canvas>
+            </div>
+            <div class="login-form-group">
+                <input type="submit" value="Login">
+            </div>
+        </form>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

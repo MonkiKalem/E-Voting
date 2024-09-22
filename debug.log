@@ -1,0 +1,186 @@
+ID Card Image Path: uploads/6654bcc9c5a6b_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654bcc9c5b6d_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: python3 face_recognition.py uploads/6654bcc9c5a6b_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg uploads/6654bcc9c5b6d_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg 2^>^&1
+Output: 
+Error: Invalid response from face recognition script.
+ID Card Image Path: uploads/6654be4961c27_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654be4961d49_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe face_recognition.py uploads/6654be4961c27_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg uploads/6654be4961d49_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg 2^>^&1
+Invalid number of arguments
+Output: {"status": "error", "message": "Invalid number of arguments"}
+
+ID Card Image Path: uploads/6654bea1c24d2_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654bea1c25e7_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654bea1c24d2_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654bea1c25e7_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Script started with arguments: uploads/6654bea1c24d2_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg, uploads/6654bea1c25e7_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Loading ID card image from uploads/6654bea1c24d2_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Exception occurred: module 'face_recognition' has no attribute 'load_image_file'
+Result: {"status": "error", "message": "module 'face_recognition' has no attribute 'load_image_file'"}
+Output: {"status": "error", "message": "module 'face_recognition' has no attribute 'load_image_file'"}
+
+ID Card Image Path: uploads/6654bf235312d_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654bf235325c_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654bf235312d_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654bf235325c_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: {"status": "error", "message": "module 'face_recognition' has no attribute 'load_image_file'"}
+
+ID Card Image Path: uploads/6654bf6b60024_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654bf6b60149_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654bf6b60024_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654bf6b60149_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: {"status": "error", "message": "module 'face_recognition' has no attribute 'load_image_file'"}
+
+ID Card Image Path: uploads/6654bfa662325_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654bfa66241d_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654bfa662325_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654bfa66241d_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: Python version: 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]
+{"status": "error", "message": "module 'face_recognition' has no attribute '__version__'"}
+
+ID Card Image Path: uploads/6654c0e64aa9b_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654c0e64ac6a_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654c0e64aa9b_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654c0e64ac6a_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: Python version: 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]
+{"status": "error", "message": "module 'face_recognition' has no attribute '__version__'"}
+
+ID Card Image Path: uploads/6654c133d2582_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654c133d26b6_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654c133d2582_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654c133d26b6_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: {"status": "error", "message": "module 'face_recognition' has no attribute 'load_image_file'"}
+
+ID Card Image Path: uploads/6654c41466a4d_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654c41466b7b_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "face_recognition.py" "uploads/6654c41466a4d_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654c41466b7b_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: C:\Users\syuja\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xampp\\htdocs\\E-Voting\\face_recognition.py': [Errno 2] No such file or directory
+
+ID Card Image Path: uploads/6654c55cf1feb_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654c55cf2119_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654c55cf1feb_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654c55cf2119_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: {"status": "error", "message": "module 'evote_face_recognition' has no attribute 'load_image_file'"}
+
+ID Card Image Path: uploads/6654c590c58b7_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654c590c59cd_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654c590c58b7_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654c590c59cd_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: {"status": "error", "message": "module 'evote_face_recognition' has no attribute 'load_image_file'"}
+
+ID Card Image Path: uploads/6654c61910cfe_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654c61910e11_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654c61910cfe_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654c61910e11_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: Please install `face_recognition_models` with this command before using `face_recognition`:
+
+pip install git+https://github.com/ageitgey/face_recognition_models
+
+ID Card Image Path: uploads/6654cc708ef4e_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654cc708f067_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654cc708ef4e_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654cc708f067_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: Please install `face_recognition_models` with this command before using `face_recognition`:
+
+pip install git+https://github.com/ageitgey/face_recognition_models
+
+ID Card Image Path: uploads/6654cd16f2672_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654cd16f278e_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654cd16f2672_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654cd16f278e_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: Please install `face_recognition_models` with this command before using `face_recognition`:
+
+pip install git+https://github.com/ageitgey/face_recognition_models
+
+ID Card Image Path: uploads/6654cd706132f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654cd7061466_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654cd706132f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654cd7061466_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: Please install `face_recognition_models` with this command before using `face_recognition`:
+
+pip install git+https://github.com/ageitgey/face_recognition_models
+
+ID Card Image Path: uploads/6654cd7bbeef3_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654cd7bbf009_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654cd7bbeef3_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654cd7bbf009_a7c1690e-9977-4ef9-b2e9-bb8d5bf03fa2.jpg" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads/6654cdd17fb5f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654cdd17fc68_intro-1575661718.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654cdd17fb5f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654cdd17fc68_intro-1575661718.jpg" 2>&1
+Output: {"status": "failed", "message": "Face verification failed"}
+
+ID Card Image Path: uploads/6654ce71ecee4_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654ce71ecfc2_images.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654ce71ecee4_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654ce71ecfc2_images.jpg" 2>&1
+Output: {"status": "failed", "message": "Face verification failed"}
+
+ID Card Image Path: uploads/6654ce7ac0bc0_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654ce7ac0cd2_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654ce7ac0bc0_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654ce7ac0cd2_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads/6654ce8e88150_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6654ce8e88279_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6654ce8e88150_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6654ce8e88279_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads/6657292a37068_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads/6657292a3a7e8_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "evote_face_recognition.py" "uploads/6657292a37068_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads/6657292a3a7e8_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads6657295c22db1_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads6657295c22db7_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads6657295c22db1_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads6657295c22db7_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads66572a0c0d8b3_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads66572a0c0d8b8_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads66572a0c0d8b3_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads66572a0c0d8b8_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads66572a22f12da_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads66572a22f12de_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads66572a22f12da_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads66572a22f12de_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads66572b57c5bd8_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads66572b57c5bdc_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads66572b57c5bd8_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads66572b57c5bdc_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads66572b73cfc93_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads66572b73cfc97_pas-foto.png
+ID Card Image Path: uploads66572c8633a3c_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads66572c8633a42_pas-foto.png
+ID Card Image Path: uploads66572cb4a4997_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads66572cb4a499a_pas-foto.png
+ID Card Image Path: uploads6657519877450_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads6657519877453_images.jpg
+ID Card Image Path: uploads665751abc7107_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665751abc710a_images.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads665751abc7107_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads665751abc710a_images.jpg" 2>&1
+Output: {"status": "failed", "message": "Face verification failed"}
+
+ID Card Image Path: uploads665751ba8e20f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665751ba8e215_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads665751ba8e20f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads665751ba8e215_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads6659e7a9f2a1b_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads6659e7a9f2a1f_pas-foto.png
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads6659e7a9f2a1b_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads6659e7a9f2a1f_pas-foto.png" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads665c21a0680f6_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c21a0680fd_face_image.jpg
+ID Card Image Path: uploads665c21ea7106f_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c21ea71073_face_image.jpg
+ID Card Image Path: uploads665c2290160ea_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c2290160ee_face_image.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads665c2290160ea_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads665c2290160ee_face_image.jpg" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads665c23481fb38_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c23481fb3d_face_image.jpg
+ID Card Image Path: uploads665c9b0123285_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c9b0123289_face_image.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads665c9b0123285_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads665c9b0123289_face_image.jpg" 2>&1
+Output: {"status": "failed", "message": "Face verification failed"}
+
+ID Card Image Path: uploads665c9b0ef399d_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c9b0ef39a1_face_image.jpg
+Running command: C:^\Users^\syuja^\AppData^\Local^\Programs^\Python^\Python312^\python.exe "D:\xampp\htdocs\E-Voting\evote_face_recognition.py" "uploads665c9b0ef399d_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg" "uploads665c9b0ef39a1_face_image.jpg" 2>&1
+Output: {"status": "verified", "message": "Face verification successful"}
+
+ID Card Image Path: uploads665c9b1fd63e3_dfee7568-b3ef-4b25-a9cc-3ae8cdc5ea21.jpg
+Face Image Path: uploads665c9b1fd63e6_face_image.jpg
